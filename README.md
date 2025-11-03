@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nare Isaghulyan
 
-<!--
-**NareIsaghulyan/NareIsaghulyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics and Informatics student at Yerevan State University  
 
-Here are some ideas to get you started:
+### About Me
+I’m a curious and motivated learner who believes that everyone deserves access to quality education.  
+I enjoy reading, exploring new ideas, and learning from different cultures.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coding Practice
+I solve problems on
+[LeetCode](https://leetcode.com/nare_isaghulyan)
+
+### Connect with Me
+Email: nareisaghulyan200@gmail.com
+LinkedIn: [linkedin.com/in/nareisaghulyan](https://www.linkedin.com/in/nareisaghulyan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0xR%2FElqhT0udmz%2BK2OzFYg%3D%3D)
