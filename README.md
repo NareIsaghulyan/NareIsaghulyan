@@ -8,7 +8,7 @@ I enjoy reading, exploring new ideas, and learning from different cultures.
 
 ### Coding Practice
 I solve problems on
-[LeetCode](https://leetcode.com/nare_isaghulyan)
+[LeetCode](https://leetcode.com/u/nare_isa/)
 
 ### Connect with Me
 Email: nareisaghulyan200@gmail.com
